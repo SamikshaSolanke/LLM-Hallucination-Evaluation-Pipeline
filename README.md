@@ -1,4 +1,4 @@
-# LLM Hallucination Detection Pipeline
+# LLM Hallucination Evaluation Pipeline
 
 An end-to-end evaluation and analysis pipeline designed to assess the factual accuracy of Large Language Models (LLMs) against human misconceptions. The project benchmarks **Llama 3.1 8B** against **Llama 3.3 70B** on the **TruthfulQA (MCQ1)** dataset, analyzing hallucination rates across 38 topic categories and identifying domains where scaling model parameters provides the highest reliability gains.
 
